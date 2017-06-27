@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  moderator_id: 1
+  name: MyString
+  description: MyText
+
+two:
+  moderator_id: 1
+  name: MyString
+  description: MyText
